@@ -1,4 +1,5 @@
 package comunicacion;
+
 public class Tesis extends Escrito{
     private String idea;
     private String[] argumentos;
